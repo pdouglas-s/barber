@@ -12,3 +12,4 @@
 * Inicializar configuração prisma "npx prisma init"
 * Criar tabelas conforme modelo criado no prisma "yarn prisma migrate dev"
 * Criptografar senha "yarn add bcryptjs" instalar tipagem "yarn add @types/bcryptjs -D"
+* Instalar token JWT "yarn add jsonwebtoken" instalar tipagem "yarn add @types/jsonwebtoken -D"

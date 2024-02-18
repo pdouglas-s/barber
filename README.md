@@ -10,3 +10,4 @@
 * Tipagem "yarn add @types/cors -D"
 * Instalar ORM para banco de dados "yarn add prisma"
 * Inicializar configuração prisma "npx prisma init"
+* Criar tabelas conforme modelo criado no prisma "yarn prisma migrate dev"

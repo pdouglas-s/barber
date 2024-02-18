@@ -11,3 +11,4 @@
 * Instalar ORM para banco de dados "yarn add prisma"
 * Inicializar configuração prisma "npx prisma init"
 * Criar tabelas conforme modelo criado no prisma "yarn prisma migrate dev"
+* Criptografar senha "yarn add bcryptjs" instalar tipagem "yarn add @types/bcryptjs -D"
